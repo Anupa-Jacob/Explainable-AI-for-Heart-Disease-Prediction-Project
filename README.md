@@ -1,5 +1,3 @@
-# Explainable-AI-for-Heart-Disease-Prediction-Project
-
 # Heart Disease Prediction with Explainable AI: A SHAP and LIME Analysis
 
 ## Project Overview
